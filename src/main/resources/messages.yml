@@ -1,0 +1,9 @@
+inventory-name: "&bGarbage垃圾桶"
+tips:
+  success-add: "&7| - &a物品已成功添加到垃圾箱 &7- |"
+  success-delete: "&a垃圾箱的物品已成功清除！"
+  without-backup: "&4没有上一步操作了！"
+  not-player: "解析出错，请在游戏界面内执行该命令！"
+errors:
+  NULL-Inventory: "&4你的数据为空，请再次执行以生成数据！"
+  UNKNOWN-ERROR: "&4⚠警告：未知错误⚠"

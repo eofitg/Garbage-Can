@@ -1,0 +1,10 @@
+name: GarbageCan
+version: '${project.version}'
+main: com.eofitg.garbagecan.GarbageCan
+authors: [ eofitg, BAIYIBS ]
+description: A Simple Item Recycle Bin
+commands:
+  garbagecan:
+    description: Opens a portable disposal menu.
+    usage: /<command>
+    aliases: [ gc, garbage, g, trash ]

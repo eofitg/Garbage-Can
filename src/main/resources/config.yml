@@ -1,0 +1,3 @@
+commands:
+  garbagecan: [ garbagecan, gc, garbage, g, trash ]
+users:
